@@ -10,5 +10,5 @@ ETL Developer and Data Analyst
 **Contact**
 : +91-8300773487
 
-**Organasation**
-- Tata Consultancy Services,Chennai
+**Organasation**-
+Tata Consultancy Services,Chennai
