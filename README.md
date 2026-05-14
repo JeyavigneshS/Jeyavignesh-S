@@ -1,10 +1,10 @@
 ## Hi there..It's me Jeyavignesh-S
 ETL Developer and Data Analyst
-### Linkedin Profile
+**Linkedin Profile**
 <br /> https://www.linkedin.com/in/jeyavignesh-s-193b18225/
-### Gmail
+**Gmail**
 s.jeyavignesh18@gmail.com
-### Contact
+**Contact**
 +91-8300773487
-## Organasation
+**Organasation**
 TCS
